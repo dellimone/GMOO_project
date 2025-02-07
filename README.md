@@ -38,7 +38,7 @@ The following algorithms are included:
 
 ## Showcase
 
-The `GMOO_Project.ipynb` notebook provides a detailed description of the implemented algorithms and a comparison of their performance on various benchmark functions.  This notebook serves as the primary showcase for the project's results and analysis.
+The [`GMOO_Project.ipynb`](GMOO_Project.ipynb) notebook provides a detailed description of the implemented algorithms and a comparison of their performance on various benchmark functions.  This notebook serves as the primary showcase for the project's results and analysis.
 
 ## Project Structure
 
