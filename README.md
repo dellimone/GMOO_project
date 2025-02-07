@@ -52,9 +52,7 @@ The `GMOO_Project.ipynb` notebook provides a detailed description of the impleme
 * [`sgapso.py`](src/sgapso.py): Implementation of the Sequential GA-PSO algorithm.
 * [`util.py`](src/util.py): Utility classes and data structures.
 
-#### Resources from literature
-
-> Everything that might be useful even in the future
+## Resources from literature
 
 - [Hybrid PSO and GA for Global Maximization,K. Premalatha and A.M. Natarajan](https://www.emis.de/journals/IJOPCM/Vol/09/IJOPCM(vol.2.4.12.D.9).pdf)
 - [A hybrid PSO-GA algorithm for constrained optimization problems, Harish Garg](https://doi.org/10.1016/j.amc.2015.11.001)
