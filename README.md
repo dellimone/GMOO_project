@@ -14,11 +14,11 @@ The following algorithms are included:
 ├── img
 │   ├── SGAPSO.svg
 │   ├── AGAPSO.svg
-|   ├── PGAPSO.svg
+│   ├── PGAPSO.svg
 │   └── IGAPSO.svg
 ├── src
 │   ├── benchmarks.py
-|   ├── plots.py
+│   ├── plots.py
 │   ├── util.py
 │   ├── ga.py
 │   ├── pso.py
