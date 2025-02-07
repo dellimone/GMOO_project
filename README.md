@@ -62,4 +62,4 @@ optimization for multimodal functions,Yi-Tung Kao Erwie Zahara](http://dx.doi.or
 and Recent Developments with
 Hybridization Perspectives,Saptarshi Sengupta, Sanchita Basak and Richard Alan Peters](https://doi.org/10.3390/make1010010)
 
-_This project is part of the Global and Multi-objective Optimization._
+_This project is part of the Global and Multi-objective Optimization exam._
